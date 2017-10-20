@@ -1,0 +1,18 @@
+
+div > ul > li{
+		display: inline-block;
+		list-style-type: none;
+	}
+/*#userinfo{
+		text-align: center;
+	}*/
+td > h4{
+		margin: 10px;
+	}
+
+tr > th{
+	padding: 20px;
+}
+.title{
+	font-weight: bold;
+}
